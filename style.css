@@ -1,0 +1,21 @@
+h1{
+    font-size: 64px;
+    color:green;
+}
+img{
+    width: 1080px;
+    border-radius: 80%;
+}
+p{
+    widt:1080px;
+    text-align: center;
+}
+.title-green{
+    color:green;
+}
+.card {
+    width: 1080px;
+    background-color: black;
+    padding: 60px;
+    border-radius: 10px;
+]
